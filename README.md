@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C#<br>🎯 Goals: Aiming for placement</p>
+<p align="left">📚 I'm currently learning C#<br>🎯 Goals: Aiming for placement <br>✉️ Connect with me: mohammadedali@gmail.com</p>
 
 ###
 
