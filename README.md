@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Algorithms and Data Structures in C#<br>- ⚡</p>
+<p align="left">- 📚 I'm currently learning Algorithms and Data Structures in C#<br><br>- ⚡ In My Free Time I  enjoy solving coding problems on websites like LeetCode and HackerRank to improve my algorithm skills.<br><br>🌱 My Learning Goals <br><br>- Expanding my knowledge of cloud computing with AWS.<br><br>- Diving deeper into React and Node.JS<br><br><br>🎯 Future Aspirations<br><br>- Become a Full-Stack Software Engineer: Work on both frontend and backend technologies to create great user experiences and scalable backend systems.<br><br>- Start a Software Engineering Company: Build my own tech<br>business, focusing on solving real-world problems through software.<br><br>- Work on AI-Powered Solutions: Integrate machine learning into my applications to create intelligent and creative systems.</p>
 
 ###
 
