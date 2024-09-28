@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/mohammad-el-dali-944865295" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:mohammadedali@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
+
 
 ###
 
@@ -9,7 +14,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me - I am currently a second year student in Computer Science based in Manchester.</h3>
+<h3 align="left">👩‍💻  About Me - I'm currently a 2nd year computer science student at Manchester Metropolitan University, I have a strong focus on software development, algorithms, and system design. My goal is to be as a full-stack software engineer and eventually launch my own software engineering company.</h3>
 
 ###
 
